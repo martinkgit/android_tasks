@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Väritesteri</string>
+    <string name="hint_height">Värin punainen 0-255</string>
+    <string name="hint_weight">Värin vihreä 0-255</string>
+    <string name="hint_blue">Värin sininen 0-255</string>
+    <string name="hint_error">Värin arvon tulee olla väliltä 0-255</string>
+    <string name="hint_hex">Värin hex-arvo tulee tähän</string>
+    <string name="hint_hex_value">Hex: #</string>
+
+</resources>
